@@ -1,0 +1,6 @@
+workflow:
+  steps:
+    - branch_package:
+        source_project: home:meechgalhuquot
+        source_package: linux-enable-ir-emitter
+        target_project: releases
